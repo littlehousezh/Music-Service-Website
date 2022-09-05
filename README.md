@@ -1,4 +1,4 @@
-# React NetEase Music for PC
+# React - 🎵 NetEase Music for PC 🎵
 
 ## Introduction
 ### Tech Stack
@@ -56,3 +56,4 @@ yarn build  |  npm build
 - API: [Binaryify](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
 
+Thanks~😄
