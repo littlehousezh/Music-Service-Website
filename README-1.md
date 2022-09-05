@@ -1,4 +1,4 @@
-# React技术栈 网易云音乐PC项目实战
+# React NetEase Music for PC
 
 ## 项目简介
 ### 技术栈
